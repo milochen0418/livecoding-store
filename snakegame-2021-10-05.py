@@ -1,4 +1,7 @@
 # Live Coding for Snake Game on VT
+# The Live Coding is save here
+# https://www.facebook.com/groups/developer.taiwan/posts/411380293726221/  
+
 import random
 async def init_vt_program(program_func, keyboardUrl):
     snakeVT = VirtualTerminal()
